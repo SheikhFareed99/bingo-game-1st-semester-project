@@ -45,7 +45,9 @@ mingw32-g++ bingo.cpp -o bingo
 
 For Visual Studio:
 
-Open the project in Visual Studio and build the solution.
+Open the project in Visual Studio and build the solution.![12](https://github.com/Misterunknown11/23L-0997_23L-0886/assets/115920116/7f2b9654-970e-4cc9-a8d2-ea3d7abeb8a7)
+
+
 
 Step 4: Run the Game
 
