@@ -44,8 +44,10 @@ For MinGW:
 mingw32-g++ bingo.cpp -o bingo
 
 For Visual Studio:
+Open the project in Visual Studio and build the solution.
+simply take the cpp code from above and go to viual studio and paste the code
+press on debug it will start also not forget to open the whole screen for better visuality
 
-Open the project in Visual Studio and build the solution.![12](https://github.com/Misterunknown11/23L-0997_23L-0886/assets/115920116/7f2b9654-970e-4cc9-a8d2-ea3d7abeb8a7)
 
 
 
