@@ -1,5 +1,6 @@
 # bingo Game
 
+hy ppl
 Bingo Game Setup Guide
 
 Welcome to the Bingo Game Setup Guide. This guide provides detailed instructions on setting up and running the Bingo Game project on a new PC. Whether you're a developer or a gaming enthusiast, this guide will help you get started with the Bingo Game.
